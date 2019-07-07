@@ -34,3 +34,12 @@ get /api/memoryrecorder
 ```
 get list of whatever that i recorded.
 
+## Example API
+```bash
+https://backend-assignment.herokuapp.com/api/restaurants
+```
+```bash
+https://backend-assignment.herokuapp.com/api/memoryrecorder
+```
+
+
