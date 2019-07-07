@@ -34,6 +34,8 @@ get /api/memoryrecorder
 ```
 get list of whatever that i recorded.
 
+![](https://github.com/smarty0123/Digital-Office-Assignment-Backend/blob/master/MemoryRecordDemo.gif)
+
 ## Example API
 ```bash
 https://backend-assignment.herokuapp.com/api/restaurants
