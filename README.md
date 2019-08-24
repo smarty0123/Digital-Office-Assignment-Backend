@@ -32,7 +32,7 @@ get restaurants in bangsue area
 ```bash
 get /api/memoryrecorder
 ```
-get list of whatever that i recorded.
+get list of whatever i had recorded.
 
 ![](https://github.com/smarty0123/Digital-Office-Assignment-Backend/blob/master/MemoryRecordDemo.gif)
 
